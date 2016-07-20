@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Selected_Items" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="40.333px" height="38.55px" viewBox="0 0 40.333 38.55" enable-background="new 0 0 40.333 38.55"
+	 xml:space="preserve">
+<symbol  id="Y_x5F_chevron" viewBox="-6.154 -19.582 40.333 38.55">
+	<g id="Layer_1_2_">
+		
+			<use xlink:href="#Y_x5F_chevron_x5F_move"  width="40.333" height="38.55" x="-19.154" y="-19.582" transform="matrix(1 0 0 1 13 0)" overflow="visible"/>
+	</g>
+	<g id="Layer_2_3_">
+	</g>
+</symbol>
+<symbol  id="Y_x5F_chevron_x5F_move" viewBox="-19.154 -19.582 40.333 38.55">
+	<g id="Layer_2_2_">
+		<polygon fill-rule="evenodd" clip-rule="evenodd" points="-19.154,-9.842 -9.688,-0.375 -19.154,8.953 -19.154,18.968 
+			0.189,-0.375 -19.154,-19.582 		"/>
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#212822" points="1.836,-9.842 11.301,-0.375 1.836,8.953 1.836,18.968 
+			21.179,-0.375 1.836,-19.582 		"/>
+	</g>
+</symbol>
+<use xlink:href="#Y_x5F_chevron"  width="40.333" height="38.55" id="chevron" x="-6.154" y="-19.582" transform="matrix(1 0 0 -1 6.1538 18.9678)" overflow="visible"/>
+</svg>

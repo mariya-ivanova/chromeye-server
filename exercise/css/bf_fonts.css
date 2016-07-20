@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'block_regular';
+  src: url('https://cache.promotions.betfair.com/media/english_uk/fonts/block-en.eot');
+  src: url('https://cache.promotions.betfair.com/media/english_uk/fonts/block-en.eot?#iefix') format('embedded-opentype'), url('https://cache.promotions.betfair.com/media/english_uk/fonts/block-en.woff') format('woff'), url('https://cache.promotions.betfair.com/media/english_uk/fonts/block-en.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'informa_bold';
+  src: url('https://cache.promotions.betfair.com/media/english_uk/fonts/informaprobold-en.eot');
+  src: url('https://cache.promotions.betfair.com/media/english_uk/fonts/informaprobold-en.eot?#iefix') format('embedded-opentype'), url('https://cache.promotions.betfair.com/media/english_uk/fonts/informaprobold-en.woff') format('woff'), url('https://cache.promotions.betfair.com/media/english_uk/fonts/informaprobold-en.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
